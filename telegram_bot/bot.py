@@ -4,7 +4,7 @@ import time
 import json
 import copy
 
-bot = telegram.Bot(token='146549732:AAFC5h-ZfwZNCiFFoK2tLmYZBfpCwPR4f98')
+bot = telegram.Bot(token='###')
 
 f = open('words.txt')
 data = f.read()
