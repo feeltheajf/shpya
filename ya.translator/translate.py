@@ -8,7 +8,7 @@ TRANSLATE_TIMEOUT = 15
 
 TRANSLATE_URL = "https://translate.yandex.net/api/v1.5/tr.json/translate"
 
-KEY_TRANSLATE = "trnsl.1.1.20160217T170234Z.0d3dceaf11f0dc7a.d43aa6c768a50f3f2a91ca862e1aacded9ee7aad"
+KEY_TRANSLATE = ""
 
 
 def get_translate_or_none(text, direction, b):
